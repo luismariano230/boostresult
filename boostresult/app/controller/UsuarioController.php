@@ -84,7 +84,7 @@
 
         header("Location: ../../usuario.php?msg=apagado");
     }else{
-        header("Location: ../../usuario.php?msg=erro");
+        header("Location: ../../usuario.php?msg=erro1");
     }
 
    
